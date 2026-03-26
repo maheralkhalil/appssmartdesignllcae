@@ -28,6 +28,7 @@ jobs:
           # ✅ Correct configuration for STATIC HTML
           app_location: "/"
           output_location: "/"
+          api_location: ""
           
 
           # ✅ Disable build system (Oryx)
